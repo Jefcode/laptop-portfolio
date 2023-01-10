@@ -67,7 +67,7 @@ function Experience() {
             font='./bangers-v20-latin-regular.woff'
             fontSize={1}
           >
-            Jefcode
+            Tobe 94
           </Text>
         </Float>
       </PresentationControls>
